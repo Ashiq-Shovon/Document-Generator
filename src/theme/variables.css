@@ -1,0 +1,159 @@
+/* // Ionic Variables and Theming. For more info, please see:
+// http://ionicframework.com/docs/theming/ */
+
+/** Ionic CSS files **/
+/* // @import "@ionic/react/css/core.css";
+// @import "@ionic/react/css/normalize.css";
+// @import "@ionic/react/css/structure.css";
+// @import "@ionic/react/css/typography.css";
+// @import "@ionic/react/css/display.css"; */
+
+/** Optional CSS utils that can be commented out **/
+/* // @import "@ionic/react/css/padding.css";
+// @import "@ionic/react/css/float-elements.css";
+// @import "@ionic/react/css/text-alignment.css";
+// @import "@ionic/react/css/text-transformation.css";
+// @import "@ionic/react/css/flex-utils.css"; */
+
+/** Theme Variables **/
+:root {
+    /** primary **/
+    --ion-color-primary: #6CAD49;
+    --ion-color-primary-rgb: 108, 173, 73;
+    --ion-color-primary-contrast: #ffffff;
+    --ion-color-primary-contrast-rgb: 255, 255, 255;
+    --ion-color-primary-shade: #5ea040;
+    --ion-color-primary-tint: #7dc65a;
+  
+    /** secondary **/
+    --ion-color-secondary: #C43C65;
+    --ion-color-secondary-rgb: 196, 60, 101;
+    --ion-color-secondary-contrast: #ffffff;
+    --ion-color-secondary-contrast-rgb: 255, 255, 255;
+    --ion-color-secondary-shade: #ae365a;
+    --ion-color-secondary-tint: #ca5275;
+  
+    /** tertiary **/
+    --ion-color-tertiary: #505453;
+    --ion-color-tertiary-rgb: 80, 84, 83;
+    --ion-color-tertiary-contrast: #ffffff;
+    --ion-color-tertiary-contrast-rgb: 255, 255, 255;
+    --ion-color-tertiary-shade: #464948;
+    --ion-color-tertiary-tint: #5f6362;
+  
+    /** success **/
+    --ion-color-success: #2dd36f;
+    --ion-color-success-rgb: 45, 211, 111;
+    --ion-color-success-contrast: #ffffff;
+    --ion-color-success-contrast-rgb: 255, 255, 255;
+    --ion-color-success-shade: #28ba63;
+    --ion-color-success-tint: #42d77d;
+  
+    /** warning **/
+    --ion-color-warning: #ffc409;
+    --ion-color-warning-rgb: 255, 196, 9;
+    --ion-color-warning-contrast: #000000;
+    --ion-color-warning-contrast-rgb: 0, 0, 0;
+    --ion-color-warning-shade: #e0ac08;
+    --ion-color-warning-tint: #ffca22;
+  
+    /** danger **/
+    --ion-color-danger: #eb445a;
+    --ion-color-danger-rgb: 235, 68, 90;
+    --ion-color-danger-contrast: #ffffff;
+    --ion-color-danger-contrast-rgb: 255, 255, 255;
+    --ion-color-danger-shade: #cf3c4f;
+    --ion-color-danger-tint: #ed576b;
+  
+    /** dark **/
+    --ion-color-dark: #7D8280;
+    --ion-color-dark-rgb: 125, 130, 128;
+    --ion-color-dark-contrast: #ffffff;
+    --ion-color-dark-contrast-rgb: 255, 255, 255;
+    --ion-color-dark-shade: #6e726f;
+    --ion-color-dark-tint: #8a8e8c;
+  
+    /** medium **/
+    --ion-color-medium: #999e9c;
+    --ion-color-medium-rgb: 153, 158, 156;
+    --ion-color-medium-contrast: #ffffff;
+    --ion-color-medium-contrast-rgb: 255, 255, 255;
+    --ion-color-medium-shade: #888d8b;
+    --ion-color-medium-tint: #a6aba9;
+  
+    /** light **/
+    --ion-color-light: #f4f5f8;
+    --ion-color-light-rgb: 244, 245, 248;
+    --ion-color-light-contrast: #505453;
+    --ion-color-light-contrast-rgb: 80, 84, 83;
+    --ion-color-light-shade: #d7d8da;
+    --ion-color-light-tint: #f5f6f9;
+  }
+  
+  /* App Specific Theme Adjustments */
+  ion-content {
+    --ion-background-color: #f4f5f8;
+    --ion-text-color: var(--ion-color-tertiary);
+  }
+  
+  ion-header ion-toolbar {
+    --background: var(--ion-color-primary);
+    --color: var(--ion-color-primary-contrast);
+  }
+  
+  ion-footer ion-toolbar {
+    --background: var(--ion-color-light);
+    --color: var(--ion-color-tertiary);
+  }
+  
+  ion-button.primary {
+    --background: var(--ion-color-primary);
+    --color: var(--ion-color-primary-contrast);
+  }
+  ion-button.primary:hover {
+    --background: var(--ion-color-primary-shade);
+  }
+  
+  ion-button.secondary {
+    --background: var(--ion-color-secondary);
+    --color: var(--ion-color-secondary-contrast);
+  }
+  ion-button.secondary:hover {
+    --background: var(--ion-color-secondary-shade);
+  }
+  
+  ion-button.tertiary {
+    --background: var(--ion-color-tertiary);
+    --color: var(--ion-color-tertiary-contrast);
+  }
+  ion-button.tertiary:hover {
+    --background: var(--ion-color-tertiary-shade);
+  }
+  
+  ion-item {
+    --ion-item-background: #ffffff;
+    --ion-item-color: var(--ion-color-tertiary);
+  }
+  
+  ion-label {
+    color: var(--ion-color-tertiary);
+  }
+  
+  ion-input {
+    color: var(--ion-color-tertiary);
+  }
+  
+  ion-select {
+    color: var(--ion-color-tertiary);
+  }
+  
+  ion-card {
+    background-color: #ffffff;
+    color: var(--ion-color-tertiary);
+  }
+  
+  .bmi-title {
+    background-color: #ae365a;;
+    
+  }
+  

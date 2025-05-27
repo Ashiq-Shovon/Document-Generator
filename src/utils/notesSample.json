@@ -1,0 +1,554 @@
+{
+  "notes": [
+    {
+      "category": "Breastfeeding",
+      "title": "Exclusive Breast Milk",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Exclusive Breast Milk"
+        },
+        {
+          "type": "paragraph",
+          "text": "Breast milk provides essential nutrients and antibodies. Continue exclusive breastfeeding.Breast milk provides essential nutrients and antibodies. Continue exclusive breastfeeding.Breast milk provides essential nutrients and antibodies. Continue exclusive breastfeeding.Breast milk provides essential nutrients and antibodies. Continue exclusive breastfeeding."
+        }
+      ]
+    },
+    {
+      "category": "Breastfeeding",
+      "title": "Benefits of Breastfeeding",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Benefits of Breastfeeding"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Boosts immunity",
+            "Promotes bonding",
+            "Reduces risk of illness",
+            "Easily digestible",
+            "Supports brain development"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Breastfeeding",
+      "title": "Common Challenges",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Common Challenges"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sore nipples and latching issues are common. Consult a lactation expert if needed."
+        }
+      ]
+    },
+    {
+      "category": "Breastfeeding",
+      "title": "Feeding Positions",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Feeding Positions"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Cradle hold",
+            "Cross-cradle hold",
+            "Football hold",
+            "Side-lying position",
+            "Laid-back position"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Breastfeeding",
+      "title": "Signs of Adequate Feeding",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Signs of Adequate Feeding"
+        },
+        {
+          "type": "paragraph",
+          "text": "6+ wet diapers/day and steady weight gain indicate adequate intake."
+        }
+      ]
+    },
+    {
+      "category": "How to Feed",
+      "title": "Feed",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Feed"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pay attention to hunger cues and respond promptly."
+        }
+      ]
+    },
+    {
+      "category": "How to Feed",
+      "title": "Responsive Feeding",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Responsive Feeding"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Observe cues",
+            "Feed on demand",
+            "Maintain calm environment",
+            "Let baby decide duration",
+            "Burp baby when switching sides"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "How to Feed",
+      "title": "Night Feeding",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Night Feeding"
+        },
+        {
+          "type": "paragraph",
+          "text": "Night feeding is normal. Keep the environment quiet and dimly lit."
+        }
+      ]
+    },
+    {
+      "category": "How to Feed",
+      "title": "Avoid Overfeeding",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Avoid Overfeeding"
+        },
+        {
+          "type": "paragraph",
+          "text": "Stop feeding when baby turns away or seems full."
+        }
+      ]
+    },
+    {
+      "category": "How to Feed",
+      "title": "Burping Techniques",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Burping Techniques"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Over-the-shoulder",
+            "Sitting upright",
+            "Face-down on lap",
+            "Pat gently",
+            "Wait for burp before switching"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Important note",
+      "title": "Crying as Communication",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Crying as Communication"
+        },
+        {
+          "type": "paragraph",
+          "text": "Crying is a late hunger cue. Watch for earlier signs like rooting or hand-sucking."
+        }
+      ]
+    },
+    {
+      "category": "Important note",
+      "title": "Baby Sleep Patterns",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Baby Sleep Patterns"
+        },
+        {
+          "type": "paragraph",
+          "text": "Newborns sleep 14–17 hours a day. Feeding frequency varies."
+        }
+      ]
+    },
+    {
+      "category": "Important note",
+      "title": "Tummy Time",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Tummy Time"
+        },
+        {
+          "type": "paragraph",
+          "text": "Practice tummy time 2–3 times daily to strengthen neck muscles."
+        }
+      ]
+    },
+    {
+      "category": "Important note",
+      "title": "Growth Spurts",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Growth Spurts"
+        },
+        {
+          "type": "paragraph",
+          "text": "Expect increased feeding during growth spurts around 6 weeks."
+        }
+      ]
+    },
+    {
+      "category": "Important note",
+      "title": "Baby Hygiene",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Baby Hygiene"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Use mild soap",
+            "Keep diaper area clean",
+            "Trim nails regularly",
+            "Clean ears gently",
+            "Avoid overbathing"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Important Warnings",
+      "title": "Foods to Avoid",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Foods to Avoid"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Honey",
+            "Cow’s milk",
+            "Fruit juices",
+            "Sugary drinks",
+            "Salty snacks"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Important Warnings",
+      "title": "Choking Hazards",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Choking Hazards"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Whole grapes",
+            "Nuts",
+            "Hard candies",
+            "Chunks of meat",
+            "Popcorn"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Important Warnings",
+      "title": "Unsafe Feeding Practices",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Unsafe Feeding Practices"
+        },
+        {
+          "type": "paragraph",
+          "text": "Avoid propping bottles or feeding while baby is lying flat."
+        }
+      ]
+    },
+    {
+      "category": "Important Warnings",
+      "title": "Check Labels",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Check Labels"
+        },
+        {
+          "type": "paragraph",
+          "text": "Always check food labels for allergens and added sugars."
+        }
+      ]
+    },
+    {
+      "category": "Important Warnings",
+      "title": "Safe Water Use",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Safe Water Use"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ensure water used to mix formula is boiled and cooled."
+        }
+      ]
+    },
+    {
+      "category": "Milestones",
+      "title": "4-Month Milestones",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: 4-Month Milestones"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Smiles spontaneously",
+            "Babbles",
+            "Pushes up on elbows",
+            "Follows moving objects",
+            "Recognizes familiar faces"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Milestones",
+      "title": "Motor Skills",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Motor Skills"
+        },
+        {
+          "type": "paragraph",
+          "text": "Baby starts reaching for and grasping toys at this stage."
+        }
+      ]
+    },
+    {
+      "category": "Milestones",
+      "title": "Cognitive Development",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Cognitive Development"
+        },
+        {
+          "type": "paragraph",
+          "text": "Babies show interest in new things and people by turning heads or making noises."
+        }
+      ]
+    },
+    {
+      "category": "Milestones",
+      "title": "Language Development",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Language Development"
+        },
+        {
+          "type": "paragraph",
+          "text": "Baby begins cooing, gurgling, and mimicking sounds."
+        }
+      ]
+    },
+    {
+      "category": "Milestones",
+      "title": "Social Development",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Social Development"
+        },
+        {
+          "type": "paragraph",
+          "text": "Smiles at people, recognizes caregivers, and may cry when left alone."
+        }
+      ]
+    },
+    {
+      "category": "Sleep",
+      "title": "Sleep Safety",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Sleep Safety"
+        },
+        {
+          "type": "paragraph",
+          "text": "Always place baby on their back to sleep. Avoid soft bedding and toys."
+        }
+      ]
+    },
+    {
+      "category": "Sleep",
+      "title": "Sleep Patterns",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Sleep Patterns"
+        },
+        {
+          "type": "paragraph",
+          "text": "Babies may sleep in 2–4 hour intervals. Establish a bedtime routine."
+        }
+      ]
+    },
+    {
+      "category": "Sleep",
+      "title": "Naps",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Naps"
+        },
+        {
+          "type": "paragraph",
+          "text": "Expect 3–4 naps per day. Let your baby nap based on cues."
+        }
+      ]
+    },
+    {
+      "category": "Sleep",
+      "title": "Soothing Methods",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Soothing Methods"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Rocking",
+            "White noise",
+            "Swaddling",
+            "Pacifier use",
+            "Soft music"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Sleep",
+      "title": "Sleep Regression",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Sleep Regression"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sleep may regress at 4 months due to developmental changes."
+        }
+      ]
+    },
+    {
+      "category": "Checkup",
+      "title": "Next Pediatric Visit",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Next Pediatric Visit"
+        },
+        {
+          "type": "paragraph",
+          "text": "Schedule your next pediatric appointment around baby’s 4-month mark."
+        }
+      ]
+    },
+    {
+      "category": "Checkup",
+      "title": "Vaccinations",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Vaccinations"
+        },
+        {
+          "type": "list",
+          "items": [
+            "DTaP",
+            "IPV",
+            "Hib",
+            "PCV",
+            "Rotavirus"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Checkup",
+      "title": "Growth Tracking",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Growth Tracking"
+        },
+        {
+          "type": "paragraph",
+          "text": "Weight, length, and head circumference should be monitored monthly."
+        }
+      ]
+    },
+    {
+      "category": "Checkup",
+      "title": "Discussing Concerns",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Discussing Concerns"
+        },
+        {
+          "type": "paragraph",
+          "text": "Make a list of any feeding or sleep issues to discuss with your pediatrician."
+        }
+      ]
+    },
+    {
+      "category": "Checkup",
+      "title": "Hearing & Vision",
+      "contentList": [
+        {
+          "type": "header",
+          "text": "Focus: Hearing & Vision"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ask about hearing and visual tracking during your check-up."
+        }
+      ]
+    }
+  ]
+}
